@@ -72,7 +72,7 @@ npm test
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - **Frontend**: React 18, Vite, Tailwind CSS, Lucide Icons, Cyber Glassmorphism.
 - **Backend**: Node.js, Express, Axios, CORS.
 - **AI & Security**: Gemini API, OpenAI / Ollama compatible client, AST Heuristic Fuzzer, OWASP API Top 10 rule engine.
