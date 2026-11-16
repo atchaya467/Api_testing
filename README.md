@@ -1,12 +1,12 @@
-# ⚡ API Testing - LLM-Powered API Testing & Security Scanner
+#  API Testing - LLM-Powered API Testing & Security Scanner
 
 > **Next-Gen AI & LLM-Powered API Testing, Fuzzing & OWASP Top 10 Security Scanning Platform with Cyberpunk Modern Animated UI/UX.**
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-### 1. 🚀 Modern API Testing Client (Postman + Insomnia Reimagined)
+### 1.  Modern API Testing Client (Postman + Insomnia Reimagined)
 - **All HTTP Methods Supported**: `GET`, `POST`, `PUT`, `DELETE`, `PATCH`, `OPTIONS`, `HEAD` with color-coded badges.
 - **Dynamic Variable Interpolation**: Use `{{baseUrl}}`, `{{token}}`, `{{userId}}` seamlessly in URLs, headers, and request bodies.
 - **Interactive Response Inspector**:
@@ -16,7 +16,7 @@
   - Copy to clipboard & raw text modes.
 - **Contract Test Assertions**: Status code checks, SLA latency limits (<500ms), header presence, and JSON schema property validation.
 
-### 2. 🛡️ LLM Automated Security Scanner (OWASP API Top 10)
+### 2.  LLM Automated Security Scanner (OWASP API Top 10)
 - **Active Vulnerability Fuzzing**:
   - **API1: BOLA / IDOR**: Automatic resource ID swapping and tenant isolation testing.
   - **API2: Broken Authentication**: Token tampering, header stripping, and expired JWT probes.
@@ -32,14 +32,14 @@
   - Actionable AI Remediation Code Snippets (Express / Node.js).
   - 1-Click Reproduction `curl` command.
 
-### 3. 🤖 AI Intelligence Engines
+### 3.  AI Intelligence Engines
 - **Zero-Config Built-in Heuristic Engine**: Works offline immediately without needing any API key!
 - **Google Gemini API**: Full integration with `gemini-2.0-flash`, `gemini-1.5-flash`, and `gemini-1.5-pro`.
 - **OpenAI & Ollama**: Seamless integration with GPT-4o or local LLMs (e.g. `llama3.2`).
 - **AI Natural Language to Request**: Type plain English (e.g. *"Test user login with admin account"*) to auto-generate requests.
 - **AI Automated Test Suite Generator**: Click **"AI Tests"** to synthesize 5-10 automated contract assertion checks.
 
-### 4. 🎯 Preconfigured Interactive Sandbox & Mock Targets
+### 4. Preconfigured Interactive Sandbox & Mock Targets
 - Built-in realistic mock target server:
   - `GET /api/mock/users` (Excessive Data & PII Exposure)
   - `GET /api/mock/users/:id` (IDOR / BOLA Target)
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Start the Platform
 ```bash
